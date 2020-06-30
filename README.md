@@ -12,4 +12,4 @@ It is recommended to install the packages above within a conda environment. Earl
 
 ## Reference
 If you use this code, please cite the following paper:
-Liang, S. and Yu, H. (2020). PIVOTAL: Prioritizing variants of uncertain significance with spatial genomic patterns in 3D proteome. *In Preparation*.
+Liang, S. and Yu, H. (2020). PIVOTAL: Prioritizing variants of uncertain significance with spatial genomic patterns in 3D proteome. *Submitted*.
